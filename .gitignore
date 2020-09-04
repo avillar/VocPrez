@@ -131,3 +131,4 @@ data/vocab_files
 
 # testing files
 scratch.py
+vocprez/_config/__init__.py
